@@ -1,0 +1,35 @@
+/* html{
+    background-color:#008080;
+} */
+
+#hero img{ 
+    display: inline-block;
+    border-radius: 5%;
+}
+#hero h1{
+    font-family: "Cormorant Garamond" ;
+    font-weight: Bold;
+    font-size: xx-large;
+}
+#hero p{
+    font-family: Satisfy;
+}
+#About{
+    font-family: "Cormorant Garamond" ;
+    font-weight: Bold;
+    font-size: xx-large;
+}
+#interest h2{
+    font-family: Satisfy;
+    font-weight: bold;
+
+}
+span{
+    font-weight: bold;
+}
+
+#navbar .logo{
+    font-family: Satisfy;
+}
+
+
