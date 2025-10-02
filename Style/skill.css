@@ -1,0 +1,20 @@
+#Skill h2{
+    font-family: Satisfy;
+    font-weight: bold;
+
+}
+.bg-purple-subtle {
+    background-color: #E6E6FA; /* Lavender */
+}
+
+.border-purple-subtle {
+    border-color: #E6E6FA;
+}
+
+.text-purple-emphasis {
+    color: #6A5ACD; /* SlateBlue */
+}
+#Skill img{
+    border-radius: 40%;
+    /* height: 25; */
+}

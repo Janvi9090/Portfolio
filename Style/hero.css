@@ -1,0 +1,22 @@
+#hero img{ 
+    display: inline-block;
+    border-radius: 5%;
+}
+#hero h1{
+    font-family: "Cormorant Garamond" ;
+    font-weight: Bold;
+    font-size: xx-large;
+}
+#hero p{
+    font-family: Satisfy;
+}
+span{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
