@@ -14,6 +14,23 @@ span{
     font-weight: bold;
 }
 
+@media(max-width: 600px){
+
+    #hero img{
+        height: 250px;
+    }
+    #hero p{
+    font-size: 17px;
+    }
+    #hero h1{
+        font-size: x-large;
+    }
+    .title{
+        font-size: 23px;
+    }
+
+}
+
 
 
 

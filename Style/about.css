@@ -7,3 +7,9 @@
     font-family: Satisfy;
     font-weight: bold;
 }
+@media(max-width: 600px){
+    #About p{
+        font-size: 17px;
+    }
+}
+
