@@ -3,3 +3,17 @@
     font-weight: 400;
     font-style:normal;
 }
+#Navbar img{
+    padding-left: 0px;
+    padding-right: 0px;
+    /* border-radius: 30%; */
+
+}
+.navbar-toogle{
+    padding: 0;
+    
+}
+
+.navbar-dark {
+    --bs-navbar-toggler-border-color: rbg(33, 37, 41);
+}
