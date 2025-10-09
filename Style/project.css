@@ -1,6 +1,9 @@
 #project h2{
     font-family: Satisfy;
-    /* font-family: "Cormorant Garamond"; */
     font-weight: bold;
 
 }
+
+ #project p{
+    float: right;
+ }
