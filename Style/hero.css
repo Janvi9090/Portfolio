@@ -6,15 +6,17 @@
     font-family: "Cormorant Garamond" ;
     font-weight: Bold;
     font-size: xx-large;
+    text-align: center;
 }
 #hero p{
     font-family: Satisfy;
 }
-span{
+
+#hero span{
     font-weight: bold;
 }
 
-@media(max-width: 600px){
+@media(max-width: 792px){
 
     #hero img{
         height: 250px;

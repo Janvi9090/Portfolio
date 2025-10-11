@@ -8,7 +8,7 @@
     font-family: Satisfy;
     font-weight: bold;
 }
-@media(max-width: 600px){
+@media(max-width: 792px){
     #About p{
         font-size: 17px;
     }

@@ -4,15 +4,15 @@
     
 }
 
-.bg-purple-subtle {
+#Skill .bg-purple-subtle {
     background-color: #E6E6FA; /* Lavender */
 }
 
-.border-purple-subtle {
+#Skill .border-purple-subtle {
     border-color: #E6E6FA;
 }
 
-.text-purple-emphasis {
+#Skill .text-purple-emphasis {
     color: #6A5ACD; /* SlateBlue */
 }
 #Skill img{
