@@ -3,7 +3,9 @@
     font-weight: Bold;
     font-size: xx-large;
 }
-
+#About p{
+    text-align: center;
+}
 #About h2{
     font-family: Satisfy;
     font-weight: bold;
