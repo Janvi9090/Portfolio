@@ -8,6 +8,14 @@
     font-size: 2rem;
 }
 
+#contact h2{
+        font-family: Satisfy;
+    font-weight: bold;
+}
+
+#contact img{
+    vertical-align: middle;
+}
 @media (max-width: 792px){
 
     #interest h3{
