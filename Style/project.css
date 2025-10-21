@@ -8,7 +8,9 @@
     float: right;
  }
 
- 
+#project img{
+    border-radius: 5%;
+} 
 body{
     width: 90%;
     margin: 0 auto;
