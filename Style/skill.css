@@ -15,7 +15,18 @@
 #Skill .text-purple-emphasis {
     color: #6A5ACD; /* SlateBlue */
 }
+
+#Skill{
+    margin-bottom: 70px;
+}
 #Skill img{
     border-radius: 40%;
     /* height: 25; */
+}
+
+@media(max-width: 792px){
+
+    #Skill{
+        margin-bottom: 40px;
+    }
 }

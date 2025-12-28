@@ -3,7 +3,8 @@
     /* font-weight: Bold; */
     /* font-size: xx-large; */
     text-align: left;
-    /* font-size: 17px; */
+        /* font-size: 17px; */
+    margin-bottom: 70px;
 }
 /* 🕸️⚙️📌📍☁️⭐🌟❄️⚡♾️✔️ */
 
@@ -17,13 +18,14 @@
     list-style-type: "📌";
 }
 #About span{
-    color: rgb(43, 17, 98);
+    color: rgb(0, 0, 0);
     font-weight: bold;
 }
 #About h2{
     font-family: Satisfy;
     font-weight: bold;
 }
+
 @media(max-width: 792px){
     #About p{
         font-size: 17px;
@@ -31,6 +33,10 @@
 
     #About li{
         font-size: 17px;
+    }
+
+    #About{
+        margin-bottom: 40px;
     }
 }
 
